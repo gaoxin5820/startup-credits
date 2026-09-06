@@ -40,7 +40,7 @@ offers:
     economics:
       benefits:
         - benefit_id: ben_01
-          description: $1,000 in credits toward iMeetify's appointment scheduling platform.
+          description: $1,000 startup credits.
           kind: credit
           value:
             amount:
@@ -54,7 +54,7 @@ offers:
         criterion_id: cri_requirement_01
         kind: manual
         reason: vendor-discretion
-        statement: Applicants must be eligible startups and receive approval from iMeetify.
+        statement: Eligible startups can apply, and iMeetify's team will reach out after submission.
     roles:
       terms_authority_entity_id: ent_01m1v2hg7v3cfzfg9se1v18d42
       access_operator_entity_id: ent_01m1v2hg7v3cfzfg9se1v18d42
@@ -62,7 +62,7 @@ offers:
       availability: public
       method: form
       url: https://www.imeetify.com/imeetify-credits-for-startups
-      instructions: Submit the public application form with contact, startup, and location details.
+      instructions: Submit your full name, email address, startup name, and location in the application form.
     terms_url: https://www.imeetify.com/imeetify-credits-for-startups
     source_ids:
       - src_c42d242993102752cf00829528b06c070304bae5f9cac7ce3ab0fb9cb32ec901
